@@ -17,4 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact)
 
-#### Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, completamente apaixonado por tecnologia e como ela impacta vidas.
+#### Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, completamente apaixonado por tecnologia e como ela impacta vidas!
