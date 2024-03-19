@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welbert-soares-97b098243/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/welbert.soarees/)
 
-<div align="center" dir="auto">
+<div >
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=1000&pause=1000&color=009CFF&vCenter=true&random=false&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Welbert+Soares;Sou+apaixonado+por+tecnologia;+Estou+cursando+ADS+na+PUCMINAS;Venho+aprendendo;tecnologias+front-end+como;JAVASCRIPT%2C+CSS%2C+HTML%2C;+Frameworks+(+Vue%2C+Nuxt)%2C;J%C3%A1+em+Backend;+C%23+com+Entity+Framework;Muito+animado+para+as+futuras;tecnologias!)](https://git.io/typing-svg)
 
