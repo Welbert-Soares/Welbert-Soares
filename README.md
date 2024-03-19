@@ -64,5 +64,4 @@
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
 ---
 
-
 #### Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, completamente apaixonado por tecnologia e como ela impacta vidas!
