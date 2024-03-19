@@ -11,6 +11,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: output
+
+      - name: Create output branch
+        run: |
+          git checkout -b output || git checkout output
 
       - name: Generate Data
         uses: Platane/snk@master
@@ -26,4 +32,4 @@ jobs:
           git config --global user.email "snake-bot@users.noreply.github.com"
           git config --global user.name "snake-bot"
           git commit -am "Updated snake animation" || exit 0
-          git push
+          git push origin output
