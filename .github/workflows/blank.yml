@@ -11,6 +11,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: output
+
+      - name: Create output branch
+        run: |
+          git checkout -b output || git checkout output
 
       - name: Create output branch
         run: |
