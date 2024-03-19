@@ -20,7 +20,15 @@
 
 <summary>Assistir Demonstração da Aplicação</summary>
 
-[You can add text within a collapsed section.](https://youtu.be/pbNBisjWMaU)
+<iframe width="500" height="500" src="https://www.youtube.com/embed/pbNBisjWMaU" title="Finanfy   Apresentação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigado por assistir.** </a>
+
+</details> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minisetas.gif" alt="">
+
+ </div>
+
+
 
 ![Welbert Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Welbert-Soares&show_icons=true&theme=dracula)
 
@@ -36,5 +44,25 @@
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact)
+
+![Snake animation](https://github.com/Welbert-Soares/Welbert-Soares/blob/output/github-contribution-grid-snake.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Welbert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Welbert-Soares/github-profile-trophy)
+
+## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
+- [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
+- [Guia de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
+- [Codepen: Edit HTML](https://codepen.io/pen/)
+- [DartPad](https://dartpad.dev/?)
+- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
+- [Multiavatar](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
+- [Readme Typing SVG ](https://github.com/DenverCoder1/readme-typing-svg)
+- [Gifs Kawaii](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
+- [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
+---
+
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, completamente apaixonado por tecnologia e como ela impacta vidas!
