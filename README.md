@@ -38,7 +38,7 @@
 
 ## Tecnologias que estou utilizando
 
-<div style= "display: inline_block"><br>
+<div align="center" style= "display: inline_block"><br>
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -47,11 +47,15 @@
     <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
 
+<div align="center" >
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact)
 
 ![Snake animation](https://github.com/Welbert-Soares/Welbert-Soares/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Welbert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Welbert-Soares/github-profile-trophy)
+
+</div>
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
