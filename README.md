@@ -45,7 +45,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact)
 
-![Snake animation](https://github.com/Welbert-Soares/github-snake-game/blob/main/dist/github-snake.svg)
+![Snake animation](https://github.com/Welbert-Soares/Welbert-Soares/blob/main/dist/github-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Welbert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Welbert-Soares/github-profile-trophy)
 
