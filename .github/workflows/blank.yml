@@ -1,0 +1,28 @@
+name: Generate Datas
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Data
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Welbert-Soares
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push if changed
+        run: |
+          git add dist
+          git diff
+          git config --global user.email "snake-bot@users.noreply.github.com"
+          git config --global user.name "snake-bot"
+          git commit -am "Updated snake animation" || exit 0
+          git push
