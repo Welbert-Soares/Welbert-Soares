@@ -20,7 +20,7 @@
 
 <summary>Assistir Demonstração da Aplicação</summary>
 
-<div><iframe width="500" height="500" src="https://www.youtube.com/embed/pbNBisjWMaU" title="Finanfy   Apresentação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 
 ### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigado por assistir.** </a>
 
