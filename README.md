@@ -28,9 +28,11 @@
 
  </div>
 
-
+<div align="center" dir="auto">
 
 ![Welbert Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Welbert-Soares&show_icons=true&theme=dracula)
+
+</div>
 
 ## Tecnologias que estou utilizando
 
