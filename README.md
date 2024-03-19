@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Welbert Soares👋🏼
+## Olá! Eu sou Welbert Soares👋🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welbert-soares-97b098243/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/welbert.soarees/)
@@ -10,7 +10,10 @@
 
 
 
-#### Projeto Destaque pela PUC Minas 2023:<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
+#### Projeto Destaque pela PUC Minas 2023:
+---
+
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
 
 </div>
 
@@ -30,13 +33,10 @@
 
  </div>
 
-<div align="center" dir="auto">
+-----
 
-![Welbert Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Welbert-Soares&show_icons=true&theme=dracula)
+### Tecnologias que estou utilizando
 
-</div>
-
-## Tecnologias que estou utilizando
 
 <div align="center" style= "display: inline_block"><br>
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -49,12 +49,26 @@
 
 <div align="center" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact)
+---
+<div>
+  <img height="180em" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <a href="https://github.com/Welbert-Soares">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Welbert-Soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact&langs_count=7&theme=dracula"/>
+ 
+
+</div>
 
 ![Snake animation](https://github.com/Welbert-Soares/Welbert-Soares/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center" dir="auto"> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Welbert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Welbert-Soares/github-profile-trophy)
 
+ </div>
+
+
+----
 </div>
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
@@ -71,5 +85,9 @@
 - [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
 ---
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=100f0f&color=fd12ed&line=e60a4c&point=f2e9f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ 
+----
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, completamente apaixonado por tecnologia e como ela impacta vidas!
