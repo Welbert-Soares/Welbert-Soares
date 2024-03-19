@@ -14,13 +14,15 @@
 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Finanfy :](https://youtu.be/h_580a0yRac?t=3474) Nossa aplicação de controle financeiro para jovens <img align="center" src="https://www.imagensanimadas.com/data/media/365/financas-imagem-animada-0051.gif" border="0" alt="financas-imagem-animada-0051" style="with:15px; height: 15px;"/> foi um dos destaques na Apresentação dos projetos selecionados do eixo 1, 2, 3, 4, 5 do curso de **Análise e Desenvolvimento de Sistemas (EaD), PUC Minas**. Assista a apresentação com os comentários dos professores orientadores. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt="" /><a href="https://youtu.be/h_580a0yRac?t=3474"> **Assistir no Youtube.** </a> Ou, se preferir, assista uma demonstração.
 
-<div align="center" dir="auto"> 
+<div  dir="auto"> 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/tv.gif" alt="">
  <details>
 
 <summary>Assistir Demonstração da Aplicação</summary>
 
-
+<div>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7170503942739542016?compact=1" height="399" width="500" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+</div>
 
 ### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigado por assistir.** </a>
 
