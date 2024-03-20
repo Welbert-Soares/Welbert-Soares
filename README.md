@@ -44,10 +44,8 @@
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
-
-<div align="center" >
-
 ---
+
 <div>
   <img height="180em" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   <a href="https://github.com/Welbert-Soares">
@@ -65,9 +63,7 @@
 
  </div>
 
-
 ----
-</div>
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
