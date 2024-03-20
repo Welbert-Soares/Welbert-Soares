@@ -10,9 +10,7 @@
 
 
 
-#### Projeto Destaque pela PUC Minas 2023:
-
-<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
+#### Projeto Destaque pela PUC Minas 2023:<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
 
 </div>
 
