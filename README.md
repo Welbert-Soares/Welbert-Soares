@@ -8,11 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=1000&pause=1000&color=009CFF&vCenter=true&random=false&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Welbert+Soares;Sou+apaixonado+por+tecnologia;+Estou+cursando+ADS+na+PUCMINAS;Venho+aprendendo;tecnologias+front-end+como;JAVASCRIPT%2C+CSS%2C+HTML%2C;+Frameworks+(+Vue%2C+Nuxt)%2C;J%C3%A1+em+Backend;+C%23+com+Entity+Framework;Muito+animado+para+as+futuras;tecnologias!)](https://git.io/typing-svg)
 
-## Projeto Destaque pela PUC Minas 2023:<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
+#### Projeto Destaque pela PUC Minas 2023:<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt=""> 
 
 </div>
 
----
+##
 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Finanfy :](https://youtu.be/h_580a0yRac?t=3474) Nossa aplicação de controle financeiro para jovens <img align="center" src="https://www.imagensanimadas.com/data/media/365/financas-imagem-animada-0051.gif" border="0" alt="financas-imagem-animada-0051" style="with:15px; height: 15px;"/> foi um dos destaques na Apresentação dos projetos selecionados do eixo 1, 2, 3, 4, 5 do curso de **Análise e Desenvolvimento de Sistemas (EaD), PUC Minas**. Assista a apresentação com os comentários dos professores orientadores. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt="" /><a href="https://youtu.be/h_580a0yRac?t=3474"> **Assistir no Youtube.** </a> Ou, se preferir, assista uma demonstração.
 
@@ -30,7 +30,7 @@
 
  </div>
 
------
+##
 
 ### Tecnologias que estou utilizando
 
@@ -44,7 +44,7 @@
     <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
 
----
+##
 
 <div>
   <img height="180em" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -62,7 +62,7 @@
 
  </div>
 
----
+##
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
