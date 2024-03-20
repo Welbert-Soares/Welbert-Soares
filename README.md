@@ -78,7 +78,9 @@
 - [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=454545&color=94a0ff&line=00bfff&point=9ecff5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=303030&color=68eee5&line=0091ff&point=61caff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----
 
