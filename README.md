@@ -62,7 +62,7 @@
 
  </div>
 
---
+---
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
