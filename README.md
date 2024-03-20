@@ -54,7 +54,6 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Welbert-Soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welbert-Soares&layout=compact&langs_count=7&theme=dracula"/>
  
-
 </div>
 
 ![Snake animation](https://github.com/Welbert-Soares/Welbert-Soares/blob/output/github-contribution-grid-snake.svg)
@@ -82,7 +81,6 @@
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
 ---
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=100f0f&color=fd12ed&line=e60a4c&point=f2e9f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ----
 
