@@ -62,7 +62,7 @@
 
  </div>
 
-----
+-
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
@@ -77,8 +77,6 @@
 - [Gifs Kawaii](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
 - [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
-  
----
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=454545&color=94a0ff&line=00bfff&point=9ecff5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
