@@ -57,7 +57,7 @@
 
 </div>
 
-
+![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" dir="auto"> 
 
