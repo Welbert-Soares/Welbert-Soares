@@ -62,7 +62,7 @@
 
 <div align="center" dir="auto"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Welbert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Wlbert-Soares/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Webert-Soares&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/Welbert-Soares/github-profile-trophy)
 
  </div>
 
