@@ -84,7 +84,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=303030&color=68eee5&line=0091ff&point=61caff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Welbert-Soares&bg_color=363535&color=b0d0e8&line=a4c8ea&point=3651d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----
 
